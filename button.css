@@ -1,0 +1,30 @@
+button{
+    border-radius: 50%;
+    background-color: rgb(146, 192, 37);
+    color: rgb(17, 228, 228);
+    padding: 15px 30px;
+    font-family: AR CARTER;
+    font-size: xx-large;
+    border-color: rgb(241, 95, 119);
+}
+
+button:hover{
+    background-color: rgba(211, 88, 145, 0.767);
+    transition: 1s;
+}
+
+
+
+
+a:hover{
+    background-color: rgb(136, 46, 81);
+    color: rgb(224, 64, 85);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(224, 48, 186);
+}
